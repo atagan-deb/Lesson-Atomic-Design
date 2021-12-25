@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
-import { PrimaryButton } from "../atoms/buttons/PrimaryButton";
-import { Input } from "../atoms/inputs/Input";
+import { PrimaryButton } from "../atoms/button/PrimaryButton";
+import { Input } from "../atoms/input/Input";
 
 export const SearchInput = () => {
   return (
